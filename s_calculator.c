@@ -1,5 +1,5 @@
 //Write a C program to implement a simple calculator 
-// roll no- 27, Date:26-09-2024
+//Date:26-09-2024
 
 #include <stdio.h>
 
