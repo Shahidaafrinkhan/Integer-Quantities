@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<string.h>
+main()
+{
+	char fname[15],sname[15];
+	printf("Enter the first name:  \n");
+	scanf("%s",fname);
+	
+	strcpy(fname,sname);
+	printf("Your name is %s \n",sname);
+	
+}
